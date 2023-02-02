@@ -1,7 +1,5 @@
 # Rust language start
 
-## INDEX
-
 ## Introduction
 ---------------
 It's a study for Rust  
@@ -9,7 +7,7 @@ It's a study for Rust
 공부에 사용된 예제는 [여기](https://rinthel.github.io/rust-lang-book-ko/foreword.html) 참조하였습니다.  
 러스트도 러스트지만 영어도 공부해야 될꺼 같습니다...
 
-## Rust study
+## Rust study index
 1. [Hello world](/hello_world)
 1. [찍먹용 간단한 게임](/guessing_game)
 
