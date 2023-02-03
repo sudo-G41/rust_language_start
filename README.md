@@ -8,10 +8,14 @@ It's a study for Rust
 러스트도 러스트지만 영어도 공부해야 될꺼 같습니다...
 
 ## Rust study index
-1. [Hello world](/hello_world)
-1. [찍먹용 간단한 게임](/guessing_game)
+-------------------
+1. [Hello world](/hello_world/)
+1. [찍먹용 간단한 게임](/guessing_game/)
+1. [변수](/variables/)
+1. [데이터 타입](/data_types/)
 
 ## Reference
+-------------
 ### git commit message
 FEAT : 새로운 기능의 추가  
 FIX: 버그 수정  
@@ -22,4 +26,6 @@ TEST: 테스트 코트, 리펙토링 테스트 코드 추가
 CHORE: 빌드 업무 수정, 패키지 매니저 수정(ex .gitignore 수정 같은 경우)  
 etc.: 기타 임시용
 
+----------------
 ### 몰랑?
+나도 몰랑!
