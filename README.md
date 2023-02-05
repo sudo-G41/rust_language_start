@@ -14,6 +14,8 @@ It's a study for Rust
 1. [변수](/variables/)
 1. [데이터 타입](/data_types/)
 1. [함수](/functions/)
+1. [주석](/comments/)
+1. [제어문](/branches/)
 
 ## Reference
 -------------
