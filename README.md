@@ -13,6 +13,7 @@ It's a study for Rust
 1. [찍먹용 간단한 게임](/guessing_game/)
 1. [변수](/variables/)
 1. [데이터 타입](/data_types/)
+1. [함수](/functions/)
 
 ## Reference
 -------------
