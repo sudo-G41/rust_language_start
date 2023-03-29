@@ -4,7 +4,7 @@
 ---------------
 It's a study for Rust  
 러스트 공부를 위해 만들어진 git 레포입니다.  
-공부에 사용된 예제는 [여기](https://rinthel.github.io/rust-lang-book-ko/foreword.html) 참조하였습니다.  
+공부에 사용된 예제는 [여기](https://rinthel.github.io/rust-lang-book-ko/foreword.html)와 [만들면서 배우는 러스트프로그래밍](https://product.kyobobook.co.kr/detail/S000200551107)을  참조하였습니다.  
 러스트도 러스트지만 영어도 공부해야 될꺼 같습니다...
 
 ## Rust study index
