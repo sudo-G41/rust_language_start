@@ -9,7 +9,7 @@ It's a study for Rust
 
 ## Rust study index
 -------------------
-1. [title](/hello_world/)
+1. [Hello World](/1.hello_world/)
 
 ## Reference
 -------------
