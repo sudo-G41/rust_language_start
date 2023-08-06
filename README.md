@@ -9,13 +9,7 @@ It's a study for Rust
 
 ## Rust study index
 -------------------
-1. [Hello world](/hello_world/)
-1. [찍먹용 간단한 게임](/guessing_game/)
-1. [변수](/variables/)
-1. [데이터 타입](/data_types/)
-1. [함수](/functions/)
-1. [주석](/comments/)
-1. [제어문](/branches/)
+1. [title](/hello_world/)days
 
 ## Reference
 -------------
