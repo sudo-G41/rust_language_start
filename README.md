@@ -10,6 +10,8 @@ It's a study for Rust
 ## Rust study index
 -------------------
 1. [Hello World](/1.hello_world/)
+1. [Rust print](/2.print/)
+1. [Data type](/3.value_type/)
 
 ## Reference
 -------------

@@ -1,4 +1,4 @@
-# ruet print
+# rust print
 ## print function
 rust print is not function and method ㅋㅋㅋ... only macro  
 println("string {}", values);
