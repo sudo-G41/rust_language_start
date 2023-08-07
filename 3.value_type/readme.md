@@ -20,3 +20,9 @@ a = a + 1 <-Error
 let mut a = 10
 a = a + 1 <- success
 ```
+
+## arrays
+rust arr : let (mut) arr_name = [start value; size];
+initial value arr : let (mut) arr_name = [value, val, ....];
+rust arr index start : 0
+
