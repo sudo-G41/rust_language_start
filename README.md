@@ -13,6 +13,7 @@ It's a study for Rust
 1. [Rust print](/2.print/)
 1. [Data type](/3.value_type/)
 1. [Cargo](/4.Cargo/)
+1. [Lotto](/5.Lotto/)
 
 ## Reference
 -------------
