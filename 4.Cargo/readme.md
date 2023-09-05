@@ -1,6 +1,4 @@
 # Cargo
--------
----------------------------------------------------
 |Cargo help |Commend|
 |-|-|
 |make project|cargo new project_name|
@@ -22,8 +20,7 @@ so build --release cmd is release version build
 ## cargo toml file
 this is cargo manifest file link : [Toml kr docs](https://toml.io/ko)
 
-##Cargo example
-
+## Cargo example
 
 make rust project
 ```sh
@@ -45,12 +42,12 @@ fn main() {
 }
 ```
 
-this code is error
+this code is error 
+u128 max size is 340282366920938463463374607431768211455(&ap;2<sup>128</sup>) but this value is over
 ```sh
 thread 'main' panicked at 'attempt to multiply with overflow', /rustc/fc594f15669680fa70d255faec3ca3fb507c3405/library/core/src/num/mod.rs:936:5
 note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 ```
-u128 max size is 340282366920938463463374607431768211455(&ap;2<sup>128</sup>)
 
 include num-bigint lib
 
@@ -75,6 +72,8 @@ fn main() {
     println!("1234 pow 5678 : {}", val.pow(5678));
 }
 ```
+
+
 ```sh
 $ cargo run
 ...
