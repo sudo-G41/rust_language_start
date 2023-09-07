@@ -34,3 +34,12 @@ Dec 15 -> ...
 ### values index
 println("{0}, {2}, {1}"); -> 1value, 3value, 2value
 values frist index 0 
+
+### Other
+println! is print next line alignment, you want not line alignment?  
+look this!
+```rust
+print!("{}",s);
+io::stdout().flush().unwrap();
+```
+std::io::{self, Write} use stdout(write monitor)!
