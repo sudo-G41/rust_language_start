@@ -1,0 +1,27 @@
+   Compiling input v0.1.0 (/workspace/rust_language_start/6.Input)
+error[E0308]: mismatched types
+  --> src/main.rs:42:20
+   |
+42 |     let p1:usize = p1;
+   |            -----   ^^ expected `usize`, found `i32`
+   |            |
+   |            expected due to this
+   |
+help: you can convert an `i32` to a `usize` and panic if the converted value doesn't fit
+   |
+42 |     let p1:usize = p1.try_into().unwrap();
+   |                      ++++++++++++++++++++
+
+error[E0308]: mismatched types
+  --> src/main.rs:43:14
+   |
+43 |     if p1 == p2{
+   |              ^^ expected `usize`, found `i32`
+   |
+help: you can convert an `i32` to a `usize` and panic if the converted value doesn't fit
+   |
+43 |     if p1 == p2.try_into().unwrap(){
+   |                ++++++++++++++++++++
+
+For more information about this error, try `rustc --explain E0308`.
+error: could not compile `input` due to 2 previous errors
