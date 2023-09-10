@@ -15,6 +15,7 @@ It's a study for Rust
 1. [Cargo](/4.Cargo/)
 1. [Lotto](/5.Lotto/)
 1. [Input and Match](/6.Input/)
+1. [HashMap](/7.HashMap/)
 
 ## Reference
 -------------
