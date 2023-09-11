@@ -16,6 +16,7 @@ It's a study for Rust
 1. [Lotto](/5.Lotto/)
 1. [Input and Match](/6.Input/)
 1. [HashMap](/7.HashMap/)
+1. [Args, File, if let](/8.Args/)
 
 ## Reference
 -------------
@@ -28,6 +29,13 @@ REFACTOR: 코드 리펙토링
 TEST: 테스트 코트, 리펙토링 테스트 코드 추가  
 CHORE: 빌드 업무 수정, 패키지 매니저 수정(ex .gitignore 수정 같은 경우)  
 etc.: 기타 임시용
+
+### rust fn
+data type name
+```rust
+fn typeName<T>(_:T){
+	println!("{}", std::any::type_name<T>());
+}
 
 ----------------
 ### 몰랑?
