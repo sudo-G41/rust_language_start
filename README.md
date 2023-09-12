@@ -18,6 +18,7 @@ It's a study for Rust
 1. [HashMap](/7.HashMap/)
 1. [Args, File, if let](/8.Args/)
 1. [Path](/9.Path/)
+1. [Ownership](/10.Ownership/)
 
 ## Reference
 -------------
