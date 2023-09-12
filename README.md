@@ -17,6 +17,7 @@ It's a study for Rust
 1. [Input and Match](/6.Input/)
 1. [HashMap](/7.HashMap/)
 1. [Args, File, if let](/8.Args/)
+1. [Path](/9.Path/)
 
 ## Reference
 -------------
@@ -34,9 +35,9 @@ etc.: 기타 임시용
 data type name
 ```rust
 fn typeName<T>(_:T){
-	println!("{}", std::any::type_name<T>());
+	println!("{}", std::any::type_name::<T>());
 }
-
+```
 ----------------
 ### 몰랑?
 나도 몰랑!
