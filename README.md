@@ -19,6 +19,7 @@ It's a study for Rust
 1. [Args, File, if let](/8.Args/)
 1. [Path](/9.Path/)
 1. [Ownership](/10.Ownership/)
+1. [String](/11.String/)
 
 ## Reference
 -------------
