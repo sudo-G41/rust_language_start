@@ -2,7 +2,7 @@
 [read code.....](/12.Test/src/lib.rs)
 
 ## #[test]
-#[test] onder one fn is test
+#[test] under one fn is test
 
 ## macro
     assert_eq!(v) : v is true?
