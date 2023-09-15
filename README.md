@@ -21,6 +21,7 @@ It's a study for Rust
 1. [Ownership](/10.Ownership/)
 1. [String](/11.String/)
 1. [Test](/12.Test/)
+1. [Struct, Trait, Generic](/13.Strct_Trait_Generic_and_impl/)
 
 ## Reference
 -------------
