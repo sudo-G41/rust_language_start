@@ -22,6 +22,7 @@ It's a study for Rust
 1. [String](/11.String/)
 1. [Test](/12.Test/)
 1. [Struct, Trait, Generic](/13.Strct_Trait_Generic_and_impl/)
+1. [Enum and null(None)](/14.Enum/)
 
 ## Reference
 -------------
