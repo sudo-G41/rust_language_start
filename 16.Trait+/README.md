@@ -6,26 +6,26 @@ rust is not function overloading
 but trait is similar inheritance  
 ```rust
 	pub enum Img{
-			RGB(u8,u8,u8),
-			HEX(u32),
-			None,
+		RGB(u8,u8,u8),
+		HEX(u32),
+		None,
 	}
 
 	impl From<(u8,u8,u8)> for Img{
-			fn from(code:(u8,u8,u8))->Img{
-					let (r,g,b) = code;
-					Img::RGB(r,g,b)
-			}
+		fn from(code:(u8,u8,u8))->Img{
+			let (r,g,b) = code;
+			Img::RGB(r,g,b)
+		}
 	}
 
 	impl From<u32> for Img{
-			fn from(code:u32)->Img{
-					if code > 0xffffff{
-							println!("Hex code is ffffff or less");
-							return Img::None;
-					}
-					Img::HEX(code)
+		fn from(code:u32)->Img{
+			if code > 0xffffff{
+				println!("Hex code is ffffff or less");
+				return Img::None;
 			}
+			Img::HEX(code)
+		}
 	}
 ```
 
