@@ -25,6 +25,8 @@ It's a study for Rust
 1. [Enum and null(None)](/14.Enum/)
 1. [Module, Package](/15.Module/)
 1. [From](/16.Trait+/)
+1. [Image](/17.Image/)
+1. [Python lib](/18.Python_lib/)
 
 ## Reference
 -------------
