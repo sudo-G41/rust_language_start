@@ -11,3 +11,6 @@ Cargo.lock
 
 # goorm IDE file
 **/*goorm*
+
+# python virtual
+**/.venv/
