@@ -14,7 +14,7 @@ $ touch [python project name].py
 ```
 
 maturin help  
-![maturin help](maturin_help.png)
+![maturin help](maturin_helps.png)
 
 ## Rust code
 #[pyfunction] is running function with python code
